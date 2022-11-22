@@ -1,0 +1,10 @@
+.background{
+    background: rgba(0, 0, 0, 0.7) url('../images/bg.jpg');
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,13 @@
+@media only screen and (max-width:1140px) {
+    .project-resp{
+        flex-wrap: wrap;
+    }
+    .project-resp>div{
+        margin-top: 100px;
+    }
+}
+
+.project-class{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
